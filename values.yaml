@@ -2442,7 +2442,7 @@ dags:
     # ssh example: git@github.com:apache/airflow.git
     # https example: https://github.com/apache/airflow.git
     repo: https://github.com/38revolver/test.git
-    branch: main
+    branch: master
     rev: HEAD
     # The git revision (branch, tag, or hash) to check out, v4 only
     #ref: v2-2-stable
